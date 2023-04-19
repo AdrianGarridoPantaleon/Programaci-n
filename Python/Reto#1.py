@@ -18,4 +18,3 @@ def traductor(texto):
 print(traductor("Leet"))
 print(traductor("Aquí está un texto de prueba para ver si funciona el reto!"))
 print(traductor(input("Texto a traducir: ")))
-print(hola)

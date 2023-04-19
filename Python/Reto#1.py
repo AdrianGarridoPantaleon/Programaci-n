@@ -14,7 +14,5 @@ def traductor(texto):
 
     return leet_text
 
-
-print(traductor("Leet"))
-print(traductor("Aquí está un texto de prueba para ver si funciona el reto!"))
-print(traductor(input("Texto a traducir: ")))
+texto= input("Texto a traducir: ")
+print(traductor(texto))

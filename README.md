@@ -1,2 +1,2 @@
 # Programacion
-### Repositorio con varios lenguajes 💻
+### Repositorio con varios lenguajes de programacion💻
